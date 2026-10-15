@@ -1,2 +1,2 @@
-# ca-apalavras
-caça palavras
+# cacapalavras
+caca palavras
